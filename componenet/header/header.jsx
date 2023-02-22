@@ -5,7 +5,7 @@ import { useRouter } from "next/router";
 
 // IMPORT public image
 import Logo from "../../public/logoBlack.svg";
-import Fr from "../../public/FR.svg";
+import Fr from "../../public/Fr.svg";
 import Ellipde from "../../public/Ellipse.svg";
 
 function header() {
